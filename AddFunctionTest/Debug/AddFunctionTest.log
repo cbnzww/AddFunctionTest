@@ -1,0 +1,13 @@
+﻿  Moc'ing addfunctiontest.h...
+  Uic'ing addfunctiontest.ui...
+  Rcc'ing addfunctiontest.qrc...
+RCC : warning : No resources in 'D:\project\Generate_Device_Resource_Pack_Program\AddFunctionTest\AddFunctionTest\addfunctiontest.qrc'.
+  
+  stdafx.cpp
+  addfunctiontest.cpp
+  moc_addfunctiontest.cpp
+  main.cpp
+  正在生成代码...
+  qrc_addfunctiontest.cpp
+  AddFunctionTest.vcxproj -> D:\project\Generate_Device_Resource_Pack_Program\AddFunctionTest\Win32\Debug\AddFunctionTest.exe
+  AddFunctionTest.vcxproj -> D:\project\Generate_Device_Resource_Pack_Program\AddFunctionTest\Win32\Debug\AddFunctionTest.pdb (Full PDB)

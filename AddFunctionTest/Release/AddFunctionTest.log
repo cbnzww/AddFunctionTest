@@ -1,0 +1,3 @@
+﻿  addfunctiontest.cpp
+qtmain.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“qtmain.pdb”(使用“qtmain.lib(qtmain_win.obj)”或在“D:\project\Generate_Device_Resource_Pack_Program\AddFunctionTest\Win32\Release\qtmain.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  AddFunctionTest.vcxproj -> D:\project\Generate_Device_Resource_Pack_Program\AddFunctionTest\Win32\Release\AddFunctionTest.exe
